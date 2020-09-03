@@ -1,2 +1,2 @@
-# hell-world
-Just another repository
+# Repository
+Hell-world
